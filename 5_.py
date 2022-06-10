@@ -16,7 +16,4 @@ e = (lista[0]+lista[1]+lista[2]+lista[3]+lista[4])
 suma = a,b,c,d,e
 print(suma)
 
-for x in lista:
-    x = x + lista[0]
-    x = x + 1
-    print(x)
+
